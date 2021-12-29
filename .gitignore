@@ -1,18 +1,2137 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
-
-# Other files and folders
-.settings/
-
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
-
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+#EXTM3U
+#EXTINF:-1,A&E FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2025.m3u8
+#EXTINF:-1,A&E FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25400.m3u8
+#EXTINF:-1,A&E FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29484.m3u8
+#EXTINF:-1,A&E HD.m3u8
+http://csrv.tv:80/live/mila/mila/1906.m3u8
+#EXTINF:-1,A&E HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2402.m3u8
+#EXTINF:-1,A&E SD.m3u8
+http://csrv.tv:80/live/mila/mila/1907.m3u8
+#EXTINF:-1,A&E SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2215.m3u8
+#EXTINF:-1,Aladdin [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2100.m3u8
+#EXTINF:-1,AMC FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2024.m3u8
+#EXTINF:-1,AMC FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25399.m3u8
+#EXTINF:-1,AMC FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29483.m3u8
+#EXTINF:-1,AMC HD.m3u8
+http://csrv.tv:80/live/mila/mila/1904.m3u8
+#EXTINF:-1,AMC HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2401.m3u8
+#EXTINF:-1,AMC SD.m3u8
+http://csrv.tv:80/live/mila/mila/1905.m3u8
+#EXTINF:-1,AMC SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2214.m3u8
+#EXTINF:-1,Animal Planet 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28663.m3u8
+#EXTINF:-1,Animal Planet FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2023.m3u8
+#EXTINF:-1,Animal Planet FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25472.m3u8
+#EXTINF:-1,Animal Planet FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29482.m3u8
+#EXTINF:-1,Animal Planet HD.m3u8
+http://csrv.tv:80/live/mila/mila/1902.m3u8
+#EXTINF:-1,Animal Planet HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2400.m3u8
+#EXTINF:-1,Animal Planet SD.m3u8
+http://csrv.tv:80/live/mila/mila/1903.m3u8
+#EXTINF:-1,Animal Planet SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2213.m3u8
+#EXTINF:-1,Arte 1 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2022.m3u8
+#EXTINF:-1,Arte 1 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25471.m3u8
+#EXTINF:-1,Arte 1 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1900.m3u8
+#EXTINF:-1,Arte 1 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1901.m3u8
+#EXTINF:-1,Arte 1 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2113.m3u8
+#EXTINF:-1,As Meninas Superpoderosas [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2099.m3u8
+#EXTINF:-1,As Tartarugas Ninja [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2098.m3u8
+#EXTINF:-1,AXN FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2021.m3u8
+#EXTINF:-1,AXN FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25470.m3u8
+#EXTINF:-1,AXN FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29481.m3u8
+#EXTINF:-1,AXN HD.m3u8
+http://csrv.tv:80/live/mila/mila/1898.m3u8
+#EXTINF:-1,AXN HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2399.m3u8
+#EXTINF:-1,AXN HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1529.m3u8
+#EXTINF:-1,AXN SD.m3u8
+http://csrv.tv:80/live/mila/mila/1899.m3u8
+#EXTINF:-1,AXN SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2212.m3u8
+#EXTINF:-1,AXN SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1528.m3u8
+#EXTINF:-1,Baby TV SD.m3u8
+http://csrv.tv:80/live/mila/mila/1897.m3u8
+#EXTINF:-1,Baby TV SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2211.m3u8
+#EXTINF:-1,Band Goiania FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29487.m3u8
+#EXTINF:-1,Band SP 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28672.m3u8
+#EXTINF:-1,Band SP FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1953.m3u8
+#EXTINF:-1,Band SP FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25398.m3u8
+#EXTINF:-1,Band SP HD.m3u8
+http://csrv.tv:80/live/mila/mila/1895.m3u8
+#EXTINF:-1,Band SP HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2398.m3u8
+#EXTINF:-1,Band SP SD.m3u8
+http://csrv.tv:80/live/mila/mila/1896.m3u8
+#EXTINF:-1,BandNews FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2020.m3u8
+#EXTINF:-1,BandNews FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25469.m3u8
+#EXTINF:-1,BandNews FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29423.m3u8
+#EXTINF:-1,BandNews HD.m3u8
+http://csrv.tv:80/live/mila/mila/1893.m3u8
+#EXTINF:-1,BandNews SD.m3u8
+http://csrv.tv:80/live/mila/mila/1894.m3u8
+#EXTINF:-1,BandNews SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2210.m3u8
+#EXTINF:-1,BandSports FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2019.m3u8
+#EXTINF:-1,BandSports FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25468.m3u8
+#EXTINF:-1,BandSports FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29422.m3u8
+#EXTINF:-1,BandSports HD.m3u8
+http://csrv.tv:80/live/mila/mila/1891.m3u8
+#EXTINF:-1,BandSports HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2397.m3u8
+#EXTINF:-1,BandSports SD.m3u8
+http://csrv.tv:80/live/mila/mila/1892.m3u8
+#EXTINF:-1,BandSports SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2209.m3u8
+#EXTINF:-1,Bis FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1952.m3u8
+#EXTINF:-1,Bis FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25467.m3u8
+#EXTINF:-1,Bis FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29421.m3u8
+#EXTINF:-1,Bis HD.m3u8
+http://csrv.tv:80/live/mila/mila/1889.m3u8
+#EXTINF:-1,Bis HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2396.m3u8
+#EXTINF:-1,Bis SD.m3u8
+http://csrv.tv:80/live/mila/mila/1890.m3u8
+#EXTINF:-1,Bis SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2121.m3u8
+#EXTINF:-1,Boa Vontade TV FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25363.m3u8
+#EXTINF:-1,Boa Vontade TV HD.m3u8
+http://csrv.tv:80/live/mila/mila/1888.m3u8
+#EXTINF:-1,Bob Esponja [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2097.m3u8
+#EXTINF:-1,Boomerang FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2018.m3u8
+#EXTINF:-1,Boomerang FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25466.m3u8
+#EXTINF:-1,Boomerang FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29420.m3u8
+#EXTINF:-1,Boomerang HD.m3u8
+http://csrv.tv:80/live/mila/mila/1886.m3u8
+#EXTINF:-1,Boomerang SD.m3u8
+http://csrv.tv:80/live/mila/mila/1887.m3u8
+#EXTINF:-1,Boomerang SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2208.m3u8
+#EXTINF:-1,Breaking Bad [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2029.m3u8
+#EXTINF:-1,Canal Brasil FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1920.m3u8
+#EXTINF:-1,Canal Brasil FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25465.m3u8
+#EXTINF:-1,Canal Brasil FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29402.m3u8
+#EXTINF:-1,Canal Brasil HD.m3u8
+http://csrv.tv:80/live/mila/mila/1884.m3u8
+#EXTINF:-1,Canal Brasil SD.m3u8
+http://csrv.tv:80/live/mila/mila/1885.m3u8
+#EXTINF:-1,Canal Brasil SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2115.m3u8
+#EXTINF:-1,Canal Do Boi SD.m3u8
+http://csrv.tv:80/live/mila/mila/1655.m3u8
+#EXTINF:-1,Canal Do Boi SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2114.m3u8
+#EXTINF:-1,Canal Sony FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2017.m3u8
+#EXTINF:-1,Canal Sony FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25464.m3u8
+#EXTINF:-1,Canal Sony FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29480.m3u8
+#EXTINF:-1,Canal Sony HD.m3u8
+http://csrv.tv:80/live/mila/mila/1882.m3u8
+#EXTINF:-1,Canal Sony HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2395.m3u8
+#EXTINF:-1,Canal Sony HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1495.m3u8
+#EXTINF:-1,Canal Sony SD.m3u8
+http://csrv.tv:80/live/mila/mila/1883.m3u8
+#EXTINF:-1,Canal Sony SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2207.m3u8
+#EXTINF:-1,Canal Sony SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1494.m3u8
+#EXTINF:-1,Cancao Nova SD.m3u8
+http://csrv.tv:80/live/mila/mila/1881.m3u8
+#EXTINF:-1,Cancao Nova SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2107.m3u8
+#EXTINF:-1,Cartoon Network 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28662.m3u8
+#EXTINF:-1,Cartoon Network FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2016.m3u8
+#EXTINF:-1,Cartoon Network FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25463.m3u8
+#EXTINF:-1,Cartoon Network FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29479.m3u8
+#EXTINF:-1,Cartoon Network HD.m3u8
+http://csrv.tv:80/live/mila/mila/1879.m3u8
+#EXTINF:-1,Cartoon Network HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2394.m3u8
+#EXTINF:-1,Cartoon Network SD.m3u8
+http://csrv.tv:80/live/mila/mila/1880.m3u8
+#EXTINF:-1,Cartoon Network SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2112.m3u8
+#EXTINF:-1,Chapolin Colorado [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2027.m3u8
+#EXTINF:-1,Chaves Animado [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2094.m3u8
+#EXTINF:-1,Chicago [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2425.m3u8
+#EXTINF:-1,Cinemax FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2015.m3u8
+#EXTINF:-1,Cinemax FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25462.m3u8
+#EXTINF:-1,Cinemax FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29478.m3u8
+#EXTINF:-1,Cinemax HD.m3u8
+http://csrv.tv:80/live/mila/mila/1877.m3u8
+#EXTINF:-1,Cinemax HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2393.m3u8
+#EXTINF:-1,Cinemax SD.m3u8
+http://csrv.tv:80/live/mila/mila/1878.m3u8
+#EXTINF:-1,Cinemax SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2130.m3u8
+#EXTINF:-1,Combate 4K.m3u8
+http://csrv.tv:80/live/mila/mila/1491.m3u8
+#EXTINF:-1,Combate 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28671.m3u8
+#EXTINF:-1,Combate FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1951.m3u8
+#EXTINF:-1,Combate FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25461.m3u8
+#EXTINF:-1,Combate FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29477.m3u8
+#EXTINF:-1,Combate HD.m3u8
+http://csrv.tv:80/live/mila/mila/1875.m3u8
+#EXTINF:-1,Combate HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2392.m3u8
+#EXTINF:-1,Combate SD.m3u8
+http://csrv.tv:80/live/mila/mila/1876.m3u8
+#EXTINF:-1,Combate SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2206.m3u8
+#EXTINF:-1,Comedy Central FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2014.m3u8
+#EXTINF:-1,Comedy Central FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25460.m3u8
+#EXTINF:-1,Comedy Central FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29476.m3u8
+#EXTINF:-1,Comedy Central HD.m3u8
+http://csrv.tv:80/live/mila/mila/1873.m3u8
+#EXTINF:-1,Comedy Central HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2391.m3u8
+#EXTINF:-1,Comedy Central SD.m3u8
+http://csrv.tv:80/live/mila/mila/1874.m3u8
+#EXTINF:-1,Comedy Central SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2205.m3u8
+#EXTINF:-1,Coragem [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2092.m3u8
+#EXTINF:-1,Curta FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2013.m3u8
+#EXTINF:-1,Curta HD.m3u8
+http://csrv.tv:80/live/mila/mila/1871.m3u8
+#EXTINF:-1,Curta SD.m3u8
+http://csrv.tv:80/live/mila/mila/1872.m3u8
+#EXTINF:-1,Curta SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2204.m3u8
+#EXTINF:-1,Curta! FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25459.m3u8
+#EXTINF:-1,DAZN 1 - Copa Sulamericana HD.m3u8
+http://csrv.tv:80/live/mila/mila/1642.m3u8
+#EXTINF:-1,DAZN 2 - Copa Libertadores HD.m3u8
+http://csrv.tv:80/live/mila/mila/1641.m3u8
+#EXTINF:-1,DAZN 3 - Brasileirao Serie C HD.m3u8
+http://csrv.tv:80/live/mila/mila/1640.m3u8
+#EXTINF:-1,Denis - O Pimentinha [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2091.m3u8
+#EXTINF:-1,Digimon [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2090.m3u8
+#EXTINF:-1,Discovery Channel 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28670.m3u8
+#EXTINF:-1,Discovery Channel FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1950.m3u8
+#EXTINF:-1,Discovery Channel FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25362.m3u8
+#EXTINF:-1,Discovery Channel FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29475.m3u8
+#EXTINF:-1,Discovery Channel HD.m3u8
+http://csrv.tv:80/live/mila/mila/1869.m3u8
+#EXTINF:-1,Discovery Channel HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2390.m3u8
+#EXTINF:-1,Discovery Channel SD.m3u8
+http://csrv.tv:80/live/mila/mila/1870.m3u8
+#EXTINF:-1,Discovery Channel SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2203.m3u8
+#EXTINF:-1,Discovery Civilization FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2012.m3u8
+#EXTINF:-1,Discovery Civilization FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25397.m3u8
+#EXTINF:-1,Discovery Civilization FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29474.m3u8
+#EXTINF:-1,Discovery Civilization HD.m3u8
+http://csrv.tv:80/live/mila/mila/1867.m3u8
+#EXTINF:-1,Discovery Civilization HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2389.m3u8
+#EXTINF:-1,Discovery Civilization SD.m3u8
+http://csrv.tv:80/live/mila/mila/1868.m3u8
+#EXTINF:-1,Discovery Civilization SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2117.m3u8
+#EXTINF:-1,Discovery H&H FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2011.m3u8
+#EXTINF:-1,Discovery H&H FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25396.m3u8
+#EXTINF:-1,Discovery H&H FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29419.m3u8
+#EXTINF:-1,Discovery H&H HD.m3u8
+http://csrv.tv:80/live/mila/mila/1865.m3u8
+#EXTINF:-1,Discovery H&H HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2388.m3u8
+#EXTINF:-1,Discovery H&H SD.m3u8
+http://csrv.tv:80/live/mila/mila/1866.m3u8
+#EXTINF:-1,Discovery H&H SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2106.m3u8
+#EXTINF:-1,Discovery Kids FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2010.m3u8
+#EXTINF:-1,Discovery Kids FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25395.m3u8
+#EXTINF:-1,Discovery Kids FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29473.m3u8
+#EXTINF:-1,Discovery Kids HD.m3u8
+http://csrv.tv:80/live/mila/mila/1863.m3u8
+#EXTINF:-1,Discovery Kids HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2387.m3u8
+#EXTINF:-1,Discovery Kids SD.m3u8
+http://csrv.tv:80/live/mila/mila/1864.m3u8
+#EXTINF:-1,Discovery Kids SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2202.m3u8
+#EXTINF:-1,Discovery Science FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2009.m3u8
+#EXTINF:-1,Discovery Science FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25394.m3u8
+#EXTINF:-1,Discovery Science FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29472.m3u8
+#EXTINF:-1,Discovery Science HD.m3u8
+http://csrv.tv:80/live/mila/mila/1861.m3u8
+#EXTINF:-1,Discovery Science HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2386.m3u8
+#EXTINF:-1,Discovery Science SD.m3u8
+http://csrv.tv:80/live/mila/mila/1862.m3u8
+#EXTINF:-1,Discovery Science SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2123.m3u8
+#EXTINF:-1,Discovery Theater FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2008.m3u8
+#EXTINF:-1,Discovery Theater FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25393.m3u8
+#EXTINF:-1,Discovery Theater FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29471.m3u8
+#EXTINF:-1,Discovery Theater HD.m3u8
+http://csrv.tv:80/live/mila/mila/1859.m3u8
+#EXTINF:-1,Discovery Theater HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2385.m3u8
+#EXTINF:-1,Discovery Theater SD.m3u8
+http://csrv.tv:80/live/mila/mila/1860.m3u8
+#EXTINF:-1,Discovery Theater SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2124.m3u8
+#EXTINF:-1,Discovery Turbo FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2007.m3u8
+#EXTINF:-1,Discovery Turbo FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25392.m3u8
+#EXTINF:-1,Discovery Turbo FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29401.m3u8
+#EXTINF:-1,Discovery Turbo HD.m3u8
+http://csrv.tv:80/live/mila/mila/1857.m3u8
+#EXTINF:-1,Discovery Turbo HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2384.m3u8
+#EXTINF:-1,Discovery Turbo SD.m3u8
+http://csrv.tv:80/live/mila/mila/1858.m3u8
+#EXTINF:-1,Discovery Turbo SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2201.m3u8
+#EXTINF:-1,Discovery World FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2006.m3u8
+#EXTINF:-1,Discovery World FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25391.m3u8
+#EXTINF:-1,Discovery World FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29400.m3u8
+#EXTINF:-1,Discovery World HD.m3u8
+http://csrv.tv:80/live/mila/mila/1855.m3u8
+#EXTINF:-1,Discovery World HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2383.m3u8
+#EXTINF:-1,Discovery World SD.m3u8
+http://csrv.tv:80/live/mila/mila/1856.m3u8
+#EXTINF:-1,Discovery World SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2122.m3u8
+#EXTINF:-1,Disney Channel FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1949.m3u8
+#EXTINF:-1,Disney Channel FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25390.m3u8
+#EXTINF:-1,Disney Channel FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29418.m3u8
+#EXTINF:-1,Disney Channel HD.m3u8
+http://csrv.tv:80/live/mila/mila/1853.m3u8
+#EXTINF:-1,Disney Channel HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2382.m3u8
+#EXTINF:-1,Disney Channel SD.m3u8
+http://csrv.tv:80/live/mila/mila/1854.m3u8
+#EXTINF:-1,Disney Channel SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2200.m3u8
+#EXTINF:-1,Disney Jr FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1955.m3u8
+#EXTINF:-1,Disney Jr FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25389.m3u8
+#EXTINF:-1,Disney Jr FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29417.m3u8
+#EXTINF:-1,Disney Jr HD.m3u8
+http://csrv.tv:80/live/mila/mila/1678.m3u8
+#EXTINF:-1,Disney Jr HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2381.m3u8
+#EXTINF:-1,Disney Jr SD.m3u8
+http://csrv.tv:80/live/mila/mila/1852.m3u8
+#EXTINF:-1,Disney Jr SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2199.m3u8
+#EXTINF:-1,Disney XD FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25361.m3u8
+#EXTINF:-1,Disney XD SD.m3u8
+http://csrv.tv:80/live/mila/mila/1851.m3u8
+#EXTINF:-1,Disney XD SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2198.m3u8
+#EXTINF:-1,Doha [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2428.m3u8
+#EXTINF:-1,Dois Homens e Meio [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2089.m3u8
+#EXTINF:-1,Doug [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2049.m3u8
+#EXTINF:-1,Dragon Ball Super [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2056.m3u8
+#EXTINF:-1,Dragon Ball Z [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2088.m3u8
+#EXTINF:-1,Dubai [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2423.m3u8
+#EXTINF:-1,Dublin [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2421.m3u8
+#EXTINF:-1,E! FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2005.m3u8
+#EXTINF:-1,E! FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25388.m3u8
+#EXTINF:-1,E! FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29416.m3u8
+#EXTINF:-1,E! HD.m3u8
+http://csrv.tv:80/live/mila/mila/1849.m3u8
+#EXTINF:-1,E! HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2380.m3u8
+#EXTINF:-1,E! SD.m3u8
+http://csrv.tv:80/live/mila/mila/1850.m3u8
+#EXTINF:-1,E! SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2197.m3u8
+#EXTINF:-1,Ei Plus HD.m3u8
+http://csrv.tv:80/live/mila/mila/1645.m3u8
+#EXTINF:-1,Ei Plus SD.m3u8
+http://csrv.tv:80/live/mila/mila/1644.m3u8
+#EXTINF:-1,ESPN 2 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2004.m3u8
+#EXTINF:-1,ESPN 2 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25458.m3u8
+#EXTINF:-1,ESPN 2 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29394.m3u8
+#EXTINF:-1,ESPN 2 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1846.m3u8
+#EXTINF:-1,ESPN 2 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2379.m3u8
+#EXTINF:-1,ESPN 2 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1847.m3u8
+#EXTINF:-1,ESPN 2 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2196.m3u8
+#EXTINF:-1,ESPN 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28861.m3u8
+#EXTINF:-1,ESPN Brasil FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1948.m3u8
+#EXTINF:-1,ESPN Brasil FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25387.m3u8
+#EXTINF:-1,ESPN Brasil FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29396.m3u8
+#EXTINF:-1,ESPN Brasil HD.m3u8
+http://csrv.tv:80/live/mila/mila/1844.m3u8
+#EXTINF:-1,ESPN Brasil HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2378.m3u8
+#EXTINF:-1,ESPN Brasil SD.m3u8
+http://csrv.tv:80/live/mila/mila/1845.m3u8
+#EXTINF:-1,ESPN Brasil SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2195.m3u8
+#EXTINF:-1,ESPN Extra FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2003.m3u8
+#EXTINF:-1,ESPN Extra FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25457.m3u8
+#EXTINF:-1,ESPN Extra FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29393.m3u8
+#EXTINF:-1,ESPN Extra HD.m3u8
+http://csrv.tv:80/live/mila/mila/1842.m3u8
+#EXTINF:-1,ESPN Extra HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2377.m3u8
+#EXTINF:-1,ESPN Extra SD.m3u8
+http://csrv.tv:80/live/mila/mila/1843.m3u8
+#EXTINF:-1,ESPN FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1947.m3u8
+#EXTINF:-1,ESPN FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25386.m3u8
+#EXTINF:-1,ESPN FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29395.m3u8
+#EXTINF:-1,ESPN HD.m3u8
+http://csrv.tv:80/live/mila/mila/1841.m3u8
+#EXTINF:-1,ESPN HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2376.m3u8
+#EXTINF:-1,ESPN SD.m3u8
+http://csrv.tv:80/live/mila/mila/1848.m3u8
+#EXTINF:-1,ESPN SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2194.m3u8
+#EXTINF:-1,Eu a Patroa e as Criancas [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2054.m3u8
+#EXTINF:-1,FashionTV FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25385.m3u8
+#EXTINF:-1,Film & Arts SD.m3u8
+http://csrv.tv:80/live/mila/mila/1666.m3u8
+#EXTINF:-1,Fish TV FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2002.m3u8
+#EXTINF:-1,Fish TV FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25384.m3u8
+#EXTINF:-1,Fish TV FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29470.m3u8
+#EXTINF:-1,Fish TV HD.m3u8
+http://csrv.tv:80/live/mila/mila/1839.m3u8
+#EXTINF:-1,Fish TV SD.m3u8
+http://csrv.tv:80/live/mila/mila/1840.m3u8
+#EXTINF:-1,Fish TV SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2109.m3u8
+#EXTINF:-1,Food Network FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2001.m3u8
+#EXTINF:-1,Food Network FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25456.m3u8
+#EXTINF:-1,Food Network FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29469.m3u8
+#EXTINF:-1,Food Network HD.m3u8
+http://csrv.tv:80/live/mila/mila/1837.m3u8
+#EXTINF:-1,Food Network HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2375.m3u8
+#EXTINF:-1,Food Network SD.m3u8
+http://csrv.tv:80/live/mila/mila/1838.m3u8
+#EXTINF:-1,Food Network SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2125.m3u8
+#EXTINF:-1,Formiga Atomica [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2039.m3u8
+#EXTINF:-1,FOX FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1946.m3u8
+#EXTINF:-1,FOX FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25455.m3u8
+#EXTINF:-1,FOX FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29468.m3u8
+#EXTINF:-1,FOX HD.m3u8
+http://csrv.tv:80/live/mila/mila/1835.m3u8
+#EXTINF:-1,FOX HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2374.m3u8
+#EXTINF:-1,FOX HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1527.m3u8
+#EXTINF:-1,FOX Life FHD.m3u8
+http://csrv.tv:80/live/mila/mila/2000.m3u8
+#EXTINF:-1,FOX Life FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25454.m3u8
+#EXTINF:-1,FOX Life HD.m3u8
+http://csrv.tv:80/live/mila/mila/1833.m3u8
+#EXTINF:-1,FOX Life HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2373.m3u8
+#EXTINF:-1,FOX Life SD.m3u8
+http://csrv.tv:80/live/mila/mila/1834.m3u8
+#EXTINF:-1,FOX Life SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2193.m3u8
+#EXTINF:-1,FOX Premium 1 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1999.m3u8
+#EXTINF:-1,FOX Premium 1 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25453.m3u8
+#EXTINF:-1,FOX Premium 1 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29415.m3u8
+#EXTINF:-1,FOX Premium 1 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1831.m3u8
+#EXTINF:-1,FOX Premium 1 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2372.m3u8
+#EXTINF:-1,FOX Premium 1 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1832.m3u8
+#EXTINF:-1,FOX Premium 2 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1998.m3u8
+#EXTINF:-1,FOX Premium 2 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25452.m3u8
+#EXTINF:-1,FOX Premium 2 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29414.m3u8
+#EXTINF:-1,FOX Premium 2 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1829.m3u8
+#EXTINF:-1,FOX Premium 2 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2371.m3u8
+#EXTINF:-1,FOX Premium 2 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1830.m3u8
+#EXTINF:-1,FOX SD.m3u8
+http://csrv.tv:80/live/mila/mila/1836.m3u8
+#EXTINF:-1,FOX SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2192.m3u8
+#EXTINF:-1,FOX SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1526.m3u8
+#EXTINF:-1,FOX Sports 2 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28661.m3u8
+#EXTINF:-1,FOX Sports 2 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1945.m3u8
+#EXTINF:-1,FOX Sports 2 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25383.m3u8
+#EXTINF:-1,FOX Sports 2 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29467.m3u8
+#EXTINF:-1,FOX Sports 2 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1825.m3u8
+#EXTINF:-1,FOX Sports 2 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2370.m3u8
+#EXTINF:-1,FOX Sports 2 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1826.m3u8
+#EXTINF:-1,FOX Sports 2 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2191.m3u8
+#EXTINF:-1,FOX Sports 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28669.m3u8
+#EXTINF:-1,FOX Sports FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1944.m3u8
+#EXTINF:-1,FOX Sports FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25382.m3u8
+#EXTINF:-1,FOX Sports FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29466.m3u8
+#EXTINF:-1,FOX Sports HD.m3u8
+http://csrv.tv:80/live/mila/mila/1827.m3u8
+#EXTINF:-1,FOX Sports HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2369.m3u8
+#EXTINF:-1,FOX Sports SD.m3u8
+http://csrv.tv:80/live/mila/mila/1828.m3u8
+#EXTINF:-1,FOX Sports SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2190.m3u8
+#EXTINF:-1,Futura FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1997.m3u8
+#EXTINF:-1,Futura FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25451.m3u8
+#EXTINF:-1,Futura HD.m3u8
+http://csrv.tv:80/live/mila/mila/1823.m3u8
+#EXTINF:-1,Futura SD.m3u8
+http://csrv.tv:80/live/mila/mila/1824.m3u8
+#EXTINF:-1,Futura SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2189.m3u8
+#EXTINF:-1,FX FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1996.m3u8
+#EXTINF:-1,FX FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25450.m3u8
+#EXTINF:-1,FX FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29465.m3u8
+#EXTINF:-1,FX HD.m3u8
+http://csrv.tv:80/live/mila/mila/1821.m3u8
+#EXTINF:-1,FX HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2368.m3u8
+#EXTINF:-1,FX HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1507.m3u8
+#EXTINF:-1,FX SD.m3u8
+http://csrv.tv:80/live/mila/mila/1822.m3u8
+#EXTINF:-1,FX SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2118.m3u8
+#EXTINF:-1,FX SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1506.m3u8
+#EXTINF:-1,Galinha Pintadinha [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2087.m3u8
+#EXTINF:-1,Globo Brasilia FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1583.m3u8
+#EXTINF:-1,Globo Brasilia HD.m3u8
+http://csrv.tv:80/live/mila/mila/1638.m3u8
+#EXTINF:-1,Globo Brasilia SD.m3u8
+http://csrv.tv:80/live/mila/mila/1639.m3u8
+#EXTINF:-1,Globo Brasilia SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2410.m3u8
+#EXTINF:-1,Globo Campinas FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25360.m3u8
+#EXTINF:-1,Globo EPTV Araraquara SD.m3u8
+http://csrv.tv:80/live/mila/mila/1637.m3u8
+#EXTINF:-1,Globo EPTV Campinas FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1582.m3u8
+#EXTINF:-1,Globo EPTV Campinas HD.m3u8
+http://csrv.tv:80/live/mila/mila/1635.m3u8
+#EXTINF:-1,Globo EPTV Campinas SD.m3u8
+http://csrv.tv:80/live/mila/mila/1636.m3u8
+#EXTINF:-1,Globo EPTV Campinas SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2409.m3u8
+#EXTINF:-1,Globo EPTV Ribeirao Preto FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1563.m3u8
+#EXTINF:-1,Globo EPTV Ribeirao Preto HD.m3u8
+http://csrv.tv:80/live/mila/mila/1634.m3u8
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD.m3u8
+http://csrv.tv:80/live/mila/mila/1633.m3u8
+#EXTINF:-1,Globo EPTV Ribeirao Preto SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2408.m3u8
+#EXTINF:-1,Globo EPTV Sao Carlos SD.m3u8
+http://csrv.tv:80/live/mila/mila/1632.m3u8
+#EXTINF:-1,Globo EPTV Sao Carlos SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2407.m3u8
+#EXTINF:-1,Globo Inter TV Alto Litoral FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1562.m3u8
+#EXTINF:-1,Globo Inter TV Alto Litoral HD.m3u8
+http://csrv.tv:80/live/mila/mila/1561.m3u8
+#EXTINF:-1,Globo Inter TV Alto Litoral SD.m3u8
+http://csrv.tv:80/live/mila/mila/1560.m3u8
+#EXTINF:-1,Globo Inter TV dos Vales FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1559.m3u8
+#EXTINF:-1,Globo Inter TV dos Vales HD.m3u8
+http://csrv.tv:80/live/mila/mila/1558.m3u8
+#EXTINF:-1,Globo Inter TV dos Vales SD.m3u8
+http://csrv.tv:80/live/mila/mila/1557.m3u8
+#EXTINF:-1,Globo Inter TV Grande Minas FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1556.m3u8
+#EXTINF:-1,Globo Inter TV Grande Minas HD.m3u8
+http://csrv.tv:80/live/mila/mila/1555.m3u8
+#EXTINF:-1,Globo Inter TV Grande Minas SD.m3u8
+http://csrv.tv:80/live/mila/mila/1554.m3u8
+#EXTINF:-1,Globo Inter TV Natal SD.m3u8
+http://csrv.tv:80/live/mila/mila/1631.m3u8
+#EXTINF:-1,Globo Inter TV Serra Mar FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1553.m3u8
+#EXTINF:-1,Globo Inter TV Serra Mar HD.m3u8
+http://csrv.tv:80/live/mila/mila/1552.m3u8
+#EXTINF:-1,Globo Inter TV Serra Mar SD.m3u8
+http://csrv.tv:80/live/mila/mila/1551.m3u8
+#EXTINF:-1,Globo Internacional FHD.m3u8
+http://csrv.tv:80/live/mila/mila/29403.m3u8
+#EXTINF:-1,Globo Internacional HD.m3u8
+http://csrv.tv:80/live/mila/mila/1599.m3u8
+#EXTINF:-1,Globo Minas FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1581.m3u8
+#EXTINF:-1,Globo Minas FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25359.m3u8
+#EXTINF:-1,Globo Minas HD.m3u8
+http://csrv.tv:80/live/mila/mila/1629.m3u8
+#EXTINF:-1,Globo Minas HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2414.m3u8
+#EXTINF:-1,Globo Minas SD.m3u8
+http://csrv.tv:80/live/mila/mila/1630.m3u8
+#EXTINF:-1,Globo Minas SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2406.m3u8
+#EXTINF:-1,Globo News FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1943.m3u8
+#EXTINF:-1,Globo News FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25449.m3u8
+#EXTINF:-1,Globo News FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29464.m3u8
+#EXTINF:-1,Globo News HD.m3u8
+http://csrv.tv:80/live/mila/mila/1819.m3u8
+#EXTINF:-1,Globo News HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2367.m3u8
+#EXTINF:-1,Globo News SD.m3u8
+http://csrv.tv:80/live/mila/mila/1820.m3u8
+#EXTINF:-1,Globo News SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2132.m3u8
+#EXTINF:-1,Globo Nordeste FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1580.m3u8
+#EXTINF:-1,Globo Nordeste FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25358.m3u8
+#EXTINF:-1,Globo Nordeste HD.m3u8
+http://csrv.tv:80/live/mila/mila/1627.m3u8
+#EXTINF:-1,Globo Nordeste SD.m3u8
+http://csrv.tv:80/live/mila/mila/1628.m3u8
+#EXTINF:-1,Globo Nordeste SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2405.m3u8
+#EXTINF:-1,Globo NSC TV Blumenau FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1550.m3u8
+#EXTINF:-1,Globo NSC TV Blumenau HD.m3u8
+http://csrv.tv:80/live/mila/mila/1549.m3u8
+#EXTINF:-1,Globo NSC TV Blumenau SD.m3u8
+http://csrv.tv:80/live/mila/mila/1548.m3u8
+#EXTINF:-1,Globo NSC TV Chapeco FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1598.m3u8
+#EXTINF:-1,Globo NSC TV Chapeco HD.m3u8
+http://csrv.tv:80/live/mila/mila/1597.m3u8
+#EXTINF:-1,Globo NSC TV Chapeco SD.m3u8
+http://csrv.tv:80/live/mila/mila/1596.m3u8
+#EXTINF:-1,Globo NSC TV Florianopolis FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1579.m3u8
+#EXTINF:-1,Globo NSC TV Florianopolis HD.m3u8
+http://csrv.tv:80/live/mila/mila/1625.m3u8
+#EXTINF:-1,Globo NSC TV Florianopolis SD.m3u8
+http://csrv.tv:80/live/mila/mila/1626.m3u8
+#EXTINF:-1,Globo NSC TV Joinville FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1544.m3u8
+#EXTINF:-1,Globo NSC TV Joinville HD.m3u8
+http://csrv.tv:80/live/mila/mila/1543.m3u8
+#EXTINF:-1,Globo NSC TV Joinville SD.m3u8
+http://csrv.tv:80/live/mila/mila/1542.m3u8
+#EXTINF:-1,Globo Porto Alegre FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25357.m3u8
+#EXTINF:-1,Globo RBS TV Caxias do Sul FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1547.m3u8
+#EXTINF:-1,Globo RBS TV Caxias do Sul HD.m3u8
+http://csrv.tv:80/live/mila/mila/1546.m3u8
+#EXTINF:-1,Globo RBS TV Caxias do Sul SD.m3u8
+http://csrv.tv:80/live/mila/mila/1545.m3u8
+#EXTINF:-1,Globo RBS TV Pelotas FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1541.m3u8
+#EXTINF:-1,Globo RBS TV Pelotas HD.m3u8
+http://csrv.tv:80/live/mila/mila/1540.m3u8
+#EXTINF:-1,Globo RBS TV Pelotas SD.m3u8
+http://csrv.tv:80/live/mila/mila/1539.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1578.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre HD.m3u8
+http://csrv.tv:80/live/mila/mila/1623.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre SD.m3u8
+http://csrv.tv:80/live/mila/mila/1624.m3u8
+#EXTINF:-1,Globo RBS TV Porto Alegre SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2404.m3u8
+#EXTINF:-1,Globo Rede AM. Manaus SD.m3u8
+http://csrv.tv:80/live/mila/mila/1622.m3u8
+#EXTINF:-1,Globo Ribeirao Preto FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25356.m3u8
+#EXTINF:-1,Globo RJ FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1619.m3u8
+#EXTINF:-1,Globo RJ FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25381.m3u8
+#EXTINF:-1,Globo RJ HD.m3u8
+http://csrv.tv:80/live/mila/mila/1620.m3u8
+#EXTINF:-1,Globo RJ HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2413.m3u8
+#EXTINF:-1,Globo RJ SD.m3u8
+http://csrv.tv:80/live/mila/mila/1621.m3u8
+#EXTINF:-1,Globo RJ SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2403.m3u8
+#EXTINF:-1,Globo RPC Curitiba FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1616.m3u8
+#EXTINF:-1,Globo RPC Curitiba HD.m3u8
+http://csrv.tv:80/live/mila/mila/1617.m3u8
+#EXTINF:-1,Globo RPC Curitiba SD.m3u8
+http://csrv.tv:80/live/mila/mila/1618.m3u8
+#EXTINF:-1,Globo RPC Foz do Iguacu FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1594.m3u8
+#EXTINF:-1,Globo RPC Foz do Iguacu HD.m3u8
+http://csrv.tv:80/live/mila/mila/1593.m3u8
+#EXTINF:-1,Globo RPC Foz do Iguacu SD.m3u8
+http://csrv.tv:80/live/mila/mila/1595.m3u8
+#EXTINF:-1,Globo SP 4K.m3u8
+http://csrv.tv:80/live/mila/mila/1490.m3u8
+#EXTINF:-1,Globo SP 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28668.m3u8
+#EXTINF:-1,Globo SP FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1613.m3u8
+#EXTINF:-1,Globo SP FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25380.m3u8
+#EXTINF:-1,Globo SP HD.m3u8
+http://csrv.tv:80/live/mila/mila/1614.m3u8
+#EXTINF:-1,Globo SP HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2311.m3u8
+#EXTINF:-1,Globo SP SD.m3u8
+http://csrv.tv:80/live/mila/mila/1615.m3u8
+#EXTINF:-1,Globo SP SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2127.m3u8
+#EXTINF:-1,Globo TV Anhanguera FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1577.m3u8
+#EXTINF:-1,Globo TV Anhanguera FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29488.m3u8
+#EXTINF:-1,Globo TV Anhanguera HD.m3u8
+http://csrv.tv:80/live/mila/mila/1611.m3u8
+#EXTINF:-1,Globo TV Anhanguera SD.m3u8
+http://csrv.tv:80/live/mila/mila/1612.m3u8
+#EXTINF:-1,Globo TV Bahia FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1576.m3u8
+#EXTINF:-1,Globo TV Bahia HD.m3u8
+http://csrv.tv:80/live/mila/mila/1609.m3u8
+#EXTINF:-1,Globo TV Bahia SD.m3u8
+http://csrv.tv:80/live/mila/mila/1610.m3u8
+#EXTINF:-1,Globo TV C. America Cuiaba SD.m3u8
+http://csrv.tv:80/live/mila/mila/1608.m3u8
+#EXTINF:-1,Globo TV Cabo Branco FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1538.m3u8
+#EXTINF:-1,Globo TV Cabo Branco HD.m3u8
+http://csrv.tv:80/live/mila/mila/1537.m3u8
+#EXTINF:-1,Globo TV Cabo Branco SD.m3u8
+http://csrv.tv:80/live/mila/mila/1536.m3u8
+#EXTINF:-1,Globo TV Clube Teresina FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1591.m3u8
+#EXTINF:-1,Globo TV Clube Teresina HD.m3u8
+http://csrv.tv:80/live/mila/mila/1590.m3u8
+#EXTINF:-1,Globo TV Clube Teresina SD.m3u8
+http://csrv.tv:80/live/mila/mila/1592.m3u8
+#EXTINF:-1,Globo TV Diario Fortaleza FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1910.m3u8
+#EXTINF:-1,Globo TV Diario Fortaleza HD.m3u8
+http://csrv.tv:80/live/mila/mila/1659.m3u8
+#EXTINF:-1,Globo TV Diario Fortaleza SD.m3u8
+http://csrv.tv:80/live/mila/mila/1658.m3u8
+#EXTINF:-1,Globo TV Gazeta Alagoas FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1567.m3u8
+#EXTINF:-1,Globo TV Gazeta Alagoas HD.m3u8
+http://csrv.tv:80/live/mila/mila/1566.m3u8
+#EXTINF:-1,Globo TV Gazeta Alagoas SD.m3u8
+http://csrv.tv:80/live/mila/mila/1568.m3u8
+#EXTINF:-1,Globo TV Gazeta Sul ES FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1565.m3u8
+#EXTINF:-1,Globo TV Gazeta Sul ES HD.m3u8
+http://csrv.tv:80/live/mila/mila/1564.m3u8
+#EXTINF:-1,Globo TV Gazeta Vitoria FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1588.m3u8
+#EXTINF:-1,Globo TV Gazeta Vitoria HD.m3u8
+http://csrv.tv:80/live/mila/mila/1587.m3u8
+#EXTINF:-1,Globo TV Gazeta Vitoria SD.m3u8
+http://csrv.tv:80/live/mila/mila/1589.m3u8
+#EXTINF:-1,Globo TV Liberal Belem SD.m3u8
+http://csrv.tv:80/live/mila/mila/1607.m3u8
+#EXTINF:-1,Globo TV Mirante Sao Luis FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1575.m3u8
+#EXTINF:-1,Globo TV Mirante Sao Luis HD.m3u8
+http://csrv.tv:80/live/mila/mila/1574.m3u8
+#EXTINF:-1,Globo TV Mirante Sao Luis SD.m3u8
+http://csrv.tv:80/live/mila/mila/1573.m3u8
+#EXTINF:-1,Globo TV Morena Campo Grande FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1572.m3u8
+#EXTINF:-1,Globo TV Morena Campo Grande HD.m3u8
+http://csrv.tv:80/live/mila/mila/1571.m3u8
+#EXTINF:-1,Globo TV Morena Campo Grande SD.m3u8
+http://csrv.tv:80/live/mila/mila/1570.m3u8
+#EXTINF:-1,Globo TV Rio Sul FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1535.m3u8
+#EXTINF:-1,Globo TV Rio Sul HD.m3u8
+http://csrv.tv:80/live/mila/mila/1534.m3u8
+#EXTINF:-1,Globo TV Rio Sul SD.m3u8
+http://csrv.tv:80/live/mila/mila/1533.m3u8
+#EXTINF:-1,Globo TV Santa Cruz FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1532.m3u8
+#EXTINF:-1,Globo TV Santa Cruz HD.m3u8
+http://csrv.tv:80/live/mila/mila/1531.m3u8
+#EXTINF:-1,Globo TV Santa Cruz SD.m3u8
+http://csrv.tv:80/live/mila/mila/1530.m3u8
+#EXTINF:-1,Globo TV Sergipe FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1585.m3u8
+#EXTINF:-1,Globo TV Sergipe HD.m3u8
+http://csrv.tv:80/live/mila/mila/1584.m3u8
+#EXTINF:-1,Globo TV Sergipe SD.m3u8
+http://csrv.tv:80/live/mila/mila/1586.m3u8
+#EXTINF:-1,Globo TV Tem Bauru SD.m3u8
+http://csrv.tv:80/live/mila/mila/1606.m3u8
+#EXTINF:-1,Globo TV Tem S. J. Do Rio Preto HD.m3u8
+http://csrv.tv:80/live/mila/mila/1604.m3u8
+#EXTINF:-1,Globo TV Tem S. J. DO Rio Preto SD.m3u8
+http://csrv.tv:80/live/mila/mila/1603.m3u8
+#EXTINF:-1,Globo TV Tem S. J. Rio Preto FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1569.m3u8
+#EXTINF:-1,Globo TV Tem Sorocaba SD.m3u8
+http://csrv.tv:80/live/mila/mila/1605.m3u8
+#EXTINF:-1,Globo TV Tribuna Santos SD.m3u8
+http://csrv.tv:80/live/mila/mila/1602.m3u8
+#EXTINF:-1,Globo TV Vanguarda S. J. Dos Campos SD.m3u8
+http://csrv.tv:80/live/mila/mila/1601.m3u8
+#EXTINF:-1,Globo TV Verdes Mares Fortaleza SD.m3u8
+http://csrv.tv:80/live/mila/mila/1600.m3u8
+#EXTINF:-1,GloboEsporte.com HD.m3u8
+http://csrv.tv:80/live/mila/mila/28653.m3u8
+#EXTINF:-1,Gloob FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1942.m3u8
+#EXTINF:-1,Gloob FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25448.m3u8
+#EXTINF:-1,Gloob FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29413.m3u8
+#EXTINF:-1,Gloob HD.m3u8
+http://csrv.tv:80/live/mila/mila/1817.m3u8
+#EXTINF:-1,Gloob HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2365.m3u8
+#EXTINF:-1,Gloob SD.m3u8
+http://csrv.tv:80/live/mila/mila/1818.m3u8
+#EXTINF:-1,Gloob SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2187.m3u8
+#EXTINF:-1,Gloobinho FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1995.m3u8
+#EXTINF:-1,Gloobinho FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25355.m3u8
+#EXTINF:-1,Gloobinho HD.m3u8
+http://csrv.tv:80/live/mila/mila/1816.m3u8
+#EXTINF:-1,Gloobinho SD.m3u8
+http://csrv.tv:80/live/mila/mila/1815.m3u8
+#EXTINF:-1,GNT FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1994.m3u8
+#EXTINF:-1,GNT FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25379.m3u8
+#EXTINF:-1,GNT FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29412.m3u8
+#EXTINF:-1,GNT HD.m3u8
+http://csrv.tv:80/live/mila/mila/1813.m3u8
+#EXTINF:-1,GNT HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2364.m3u8
+#EXTINF:-1,GNT SD.m3u8
+http://csrv.tv:80/live/mila/mila/1814.m3u8
+#EXTINF:-1,GNT SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2120.m3u8
+#EXTINF:-1,Gospel Cartoon [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2086.m3u8
+#EXTINF:-1,Guardioes da Galaxia [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2040.m3u8
+#EXTINF:-1,H2 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1993.m3u8
+#EXTINF:-1,H2 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25378.m3u8
+#EXTINF:-1,H2 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29463.m3u8
+#EXTINF:-1,H2 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1811.m3u8
+#EXTINF:-1,H2 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2363.m3u8
+#EXTINF:-1,H2 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1812.m3u8
+#EXTINF:-1,H2 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2186.m3u8
+#EXTINF:-1,HBO 2 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1941.m3u8
+#EXTINF:-1,HBO 2 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25447.m3u8
+#EXTINF:-1,HBO 2 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29460.m3u8
+#EXTINF:-1,HBO 2 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1808.m3u8
+#EXTINF:-1,HBO 2 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2362.m3u8
+#EXTINF:-1,HBO 2 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1809.m3u8
+#EXTINF:-1,HBO 2 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2126.m3u8
+#EXTINF:-1,HBO Family FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1992.m3u8
+#EXTINF:-1,HBO Family FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25446.m3u8
+#EXTINF:-1,HBO Family FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29411.m3u8
+#EXTINF:-1,HBO Family HD.m3u8
+http://csrv.tv:80/live/mila/mila/1806.m3u8
+#EXTINF:-1,HBO Family HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2361.m3u8
+#EXTINF:-1,HBO Family SD.m3u8
+http://csrv.tv:80/live/mila/mila/1807.m3u8
+#EXTINF:-1,HBO Family SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2185.m3u8
+#EXTINF:-1,HBO FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1940.m3u8
+#EXTINF:-1,HBO FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25445.m3u8
+#EXTINF:-1,HBO FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29410.m3u8
+#EXTINF:-1,HBO HD.m3u8
+http://csrv.tv:80/live/mila/mila/1805.m3u8
+#EXTINF:-1,HBO HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2360.m3u8
+#EXTINF:-1,HBO HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1525.m3u8
+#EXTINF:-1,HBO Plus E SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2184.m3u8
+#EXTINF:-1,HBO Plus FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1991.m3u8
+#EXTINF:-1,HBO Plus FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25444.m3u8
+#EXTINF:-1,HBO Plus FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29462.m3u8
+#EXTINF:-1,HBO Plus HD.m3u8
+http://csrv.tv:80/live/mila/mila/1803.m3u8
+#EXTINF:-1,HBO Plus HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2359.m3u8
+#EXTINF:-1,HBO Plus HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1523.m3u8
+#EXTINF:-1,HBO Plus SD.m3u8
+http://csrv.tv:80/live/mila/mila/1804.m3u8
+#EXTINF:-1,HBO Plus SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2183.m3u8
+#EXTINF:-1,HBO Plus SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1522.m3u8
+#EXTINF:-1,HBO SD.m3u8
+http://csrv.tv:80/live/mila/mila/1810.m3u8
+#EXTINF:-1,HBO SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2182.m3u8
+#EXTINF:-1,HBO SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1524.m3u8
+#EXTINF:-1,HBO Signature FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1990.m3u8
+#EXTINF:-1,HBO Signature FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25443.m3u8
+#EXTINF:-1,HBO Signature FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29461.m3u8
+#EXTINF:-1,HBO Signature HD.m3u8
+http://csrv.tv:80/live/mila/mila/1801.m3u8
+#EXTINF:-1,HBO Signature HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2358.m3u8
+#EXTINF:-1,HBO Signature SD.m3u8
+http://csrv.tv:80/live/mila/mila/1802.m3u8
+#EXTINF:-1,HBO Signature SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2181.m3u8
+#EXTINF:-1,He-Man [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2085.m3u8
+#EXTINF:-1,Hércules [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2026.m3u8
+#EXTINF:-1,Historias da Disney [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2084.m3u8
+#EXTINF:-1,History Channel FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1989.m3u8
+#EXTINF:-1,History Channel FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25442.m3u8
+#EXTINF:-1,History Channel FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29459.m3u8
+#EXTINF:-1,History Channel HD.m3u8
+http://csrv.tv:80/live/mila/mila/1799.m3u8
+#EXTINF:-1,History Channel HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2320.m3u8
+#EXTINF:-1,History Channel SD.m3u8
+http://csrv.tv:80/live/mila/mila/1800.m3u8
+#EXTINF:-1,History Channel SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2143.m3u8
+#EXTINF:-1,Homem de Ferro [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2036.m3u8
+#EXTINF:-1,Homem-Aranha [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2083.m3u8
+#EXTINF:-1,Incrivel Hulk [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2038.m3u8
+#EXTINF:-1,Investigation Discovery FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1988.m3u8
+#EXTINF:-1,Investigation Discovery FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25377.m3u8
+#EXTINF:-1,Investigation Discovery FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29458.m3u8
+#EXTINF:-1,Investigation Discovery HD.m3u8
+http://csrv.tv:80/live/mila/mila/1797.m3u8
+#EXTINF:-1,Investigation Discovery HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2357.m3u8
+#EXTINF:-1,Investigation Discovery SD.m3u8
+http://csrv.tv:80/live/mila/mila/1798.m3u8
+#EXTINF:-1,Investigation Discovery SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2119.m3u8
+#EXTINF:-1,Jack-Chan [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2052.m3u8
+#EXTINF:-1,Jaspion [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2082.m3u8
+#EXTINF:-1,Jerusalem [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2430.m3u8
+#EXTINF:-1,Jiraya [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2081.m3u8
+#EXTINF:-1,Kenan e Kel [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2044.m3u8
+#EXTINF:-1,Lifetime FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1987.m3u8
+#EXTINF:-1,Lifetime FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25441.m3u8
+#EXTINF:-1,Lifetime FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29457.m3u8
+#EXTINF:-1,Lifetime HD.m3u8
+http://csrv.tv:80/live/mila/mila/1795.m3u8
+#EXTINF:-1,Lifetime HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2356.m3u8
+#EXTINF:-1,Lifetime SD.m3u8
+http://csrv.tv:80/live/mila/mila/1796.m3u8
+#EXTINF:-1,Lifetime SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2180.m3u8
+#EXTINF:-1,Los Angeles [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2432.m3u8
+#EXTINF:-1,Mais GloboSat FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1921.m3u8
+#EXTINF:-1,Mais GloboSat FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25440.m3u8
+#EXTINF:-1,Mais GloboSat FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29399.m3u8
+#EXTINF:-1,Mais GloboSat HD.m3u8
+http://csrv.tv:80/live/mila/mila/1793.m3u8
+#EXTINF:-1,Mais GloboSat HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2366.m3u8
+#EXTINF:-1,Mais GloboSat SD.m3u8
+http://csrv.tv:80/live/mila/mila/1794.m3u8
+#EXTINF:-1,Mais GloboSat SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2188.m3u8
+#EXTINF:-1,Maldivas [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2422.m3u8
+#EXTINF:-1,MAX FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1986.m3u8
+#EXTINF:-1,MAX FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25439.m3u8
+#EXTINF:-1,MAX FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29456.m3u8
+#EXTINF:-1,MAX HD.m3u8
+http://csrv.tv:80/live/mila/mila/1791.m3u8
+#EXTINF:-1,MAX HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2355.m3u8
+#EXTINF:-1,MAX Prime FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1985.m3u8
+#EXTINF:-1,MAX Prime FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25438.m3u8
+#EXTINF:-1,MAX Prime FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29455.m3u8
+#EXTINF:-1,MAX Prime HD.m3u8
+http://csrv.tv:80/live/mila/mila/1789.m3u8
+#EXTINF:-1,MAX Prime HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2354.m3u8
+#EXTINF:-1,MAX Prime SD.m3u8
+http://csrv.tv:80/live/mila/mila/1790.m3u8
+#EXTINF:-1,MAX Prime SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2179.m3u8
+#EXTINF:-1,MAX Prime SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1521.m3u8
+#EXTINF:-1,MAX SD.m3u8
+http://csrv.tv:80/live/mila/mila/1792.m3u8
+#EXTINF:-1,MAX SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2178.m3u8
+#EXTINF:-1,MAX SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1520.m3u8
+#EXTINF:-1,MAX Up FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1984.m3u8
+#EXTINF:-1,MAX Up FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25437.m3u8
+#EXTINF:-1,MAX Up FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29409.m3u8
+#EXTINF:-1,MAX Up HD.m3u8
+http://csrv.tv:80/live/mila/mila/1787.m3u8
+#EXTINF:-1,MAX Up HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2353.m3u8
+#EXTINF:-1,MAX Up HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1505.m3u8
+#EXTINF:-1,MAX Up SD.m3u8
+http://csrv.tv:80/live/mila/mila/1788.m3u8
+#EXTINF:-1,MAX Up SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2177.m3u8
+#EXTINF:-1,MAX Up SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1504.m3u8
+#EXTINF:-1,Medabots [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2080.m3u8
+#EXTINF:-1,MegaMan [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2032.m3u8
+#EXTINF:-1,Megapix 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28656.m3u8
+#EXTINF:-1,Megapix FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1983.m3u8
+#EXTINF:-1,Megapix FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25436.m3u8
+#EXTINF:-1,Megapix FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29408.m3u8
+#EXTINF:-1,Megapix HD.m3u8
+http://csrv.tv:80/live/mila/mila/1785.m3u8
+#EXTINF:-1,Megapix HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2352.m3u8
+#EXTINF:-1,Megapix HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1503.m3u8
+#EXTINF:-1,Megapix SD.m3u8
+http://csrv.tv:80/live/mila/mila/1786.m3u8
+#EXTINF:-1,Megapix SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2176.m3u8
+#EXTINF:-1,Megapix SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1502.m3u8
+#EXTINF:-1,Miami [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2426.m3u8
+#EXTINF:-1,MIB Homens de Preto [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2047.m3u8
+#EXTINF:-1,Mortal Kombat [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2031.m3u8
+#EXTINF:-1,Moscow [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2431.m3u8
+#EXTINF:-1,Mr. Ben [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2045.m3u8
+#EXTINF:-1,MTV FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1982.m3u8
+#EXTINF:-1,MTV FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25435.m3u8
+#EXTINF:-1,MTV FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29454.m3u8
+#EXTINF:-1,MTV HD.m3u8
+http://csrv.tv:80/live/mila/mila/1783.m3u8
+#EXTINF:-1,MTV HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2351.m3u8
+#EXTINF:-1,MTV Live FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1981.m3u8
+#EXTINF:-1,MTV Live FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25376.m3u8
+#EXTINF:-1,MTV Live HD.m3u8
+http://csrv.tv:80/live/mila/mila/1676.m3u8
+#EXTINF:-1,MTV Live SD.m3u8
+http://csrv.tv:80/live/mila/mila/1677.m3u8
+#EXTINF:-1,MTV SD.m3u8
+http://csrv.tv:80/live/mila/mila/1784.m3u8
+#EXTINF:-1,Multishow 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28660.m3u8
+#EXTINF:-1,Multishow FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1980.m3u8
+#EXTINF:-1,Multishow FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25375.m3u8
+#EXTINF:-1,Multishow FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29453.m3u8
+#EXTINF:-1,Multishow HD.m3u8
+http://csrv.tv:80/live/mila/mila/1781.m3u8
+#EXTINF:-1,Multishow HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2350.m3u8
+#EXTINF:-1,Multishow SD.m3u8
+http://csrv.tv:80/live/mila/mila/1782.m3u8
+#EXTINF:-1,Multishow SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2175.m3u8
+#EXTINF:-1,Music Box Brasil FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1979.m3u8
+#EXTINF:-1,Music Box Brasil HD.m3u8
+http://csrv.tv:80/live/mila/mila/1779.m3u8
+#EXTINF:-1,Music Box Brasil SD.m3u8
+http://csrv.tv:80/live/mila/mila/1780.m3u8
+#EXTINF:-1,Music Box Brazil FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25434.m3u8
+#EXTINF:-1,Naruto [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2079.m3u8
+#EXTINF:-1,Naruto Shippuuden [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2078.m3u8
+#EXTINF:-1,NatGeo 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28659.m3u8
+#EXTINF:-1,NatGeo FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1978.m3u8
+#EXTINF:-1,NatGeo FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25433.m3u8
+#EXTINF:-1,NatGeo FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29452.m3u8
+#EXTINF:-1,NatGeo HD.m3u8
+http://csrv.tv:80/live/mila/mila/1777.m3u8
+#EXTINF:-1,NatGeo HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2349.m3u8
+#EXTINF:-1,NatGeo Kids FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1977.m3u8
+#EXTINF:-1,NatGeo Kids FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25374.m3u8
+#EXTINF:-1,NatGeo Kids FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29451.m3u8
+#EXTINF:-1,NatGeo Kids HD.m3u8
+http://csrv.tv:80/live/mila/mila/1775.m3u8
+#EXTINF:-1,NatGeo Kids HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2348.m3u8
+#EXTINF:-1,NatGeo Kids SD.m3u8
+http://csrv.tv:80/live/mila/mila/1776.m3u8
+#EXTINF:-1,NatGeo Kids SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2174.m3u8
+#EXTINF:-1,NatGeo SD.m3u8
+http://csrv.tv:80/live/mila/mila/1778.m3u8
+#EXTINF:-1,NatGeo SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2173.m3u8
+#EXTINF:-1,NatGeo Wild FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1976.m3u8
+#EXTINF:-1,NatGeo Wild FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25432.m3u8
+#EXTINF:-1,NatGeo Wild FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29450.m3u8
+#EXTINF:-1,NatGeo Wild HD.m3u8
+http://csrv.tv:80/live/mila/mila/1774.m3u8
+#EXTINF:-1,NatGeo Wild HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2347.m3u8
+#EXTINF:-1,NatGeo Wild SD.m3u8
+http://csrv.tv:80/live/mila/mila/1773.m3u8
+#EXTINF:-1,NatGeo Wild SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2172.m3u8
+#EXTINF:-1,NBR SD.m3u8
+http://csrv.tv:80/live/mila/mila/1772.m3u8
+#EXTINF:-1,New York City [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2418.m3u8
+#EXTINF:-1,Nick Jr FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1975.m3u8
+#EXTINF:-1,Nick Jr FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25431.m3u8
+#EXTINF:-1,Nick Jr FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29449.m3u8
+#EXTINF:-1,Nick Jr HD.m3u8
+http://csrv.tv:80/live/mila/mila/1770.m3u8
+#EXTINF:-1,Nick Jr HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2346.m3u8
+#EXTINF:-1,Nick Jr SD.m3u8
+http://csrv.tv:80/live/mila/mila/1771.m3u8
+#EXTINF:-1,Nick Jr SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2171.m3u8
+#EXTINF:-1,Nickelodeon FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1974.m3u8
+#EXTINF:-1,Nickelodeon FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25430.m3u8
+#EXTINF:-1,Nickelodeon FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29407.m3u8
+#EXTINF:-1,Nickelodeon HD.m3u8
+http://csrv.tv:80/live/mila/mila/1768.m3u8
+#EXTINF:-1,Nickelodeon HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2345.m3u8
+#EXTINF:-1,Nickelodeon SD.m3u8
+http://csrv.tv:80/live/mila/mila/1769.m3u8
+#EXTINF:-1,Nickelodeon SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2170.m3u8
+#EXTINF:-1,O Fantastico Mundo de Bobby [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2048.m3u8
+#EXTINF:-1,O Inspetor [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2077.m3u8
+#EXTINF:-1,O Maskara [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2076.m3u8
+#EXTINF:-1,OFF FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1973.m3u8
+#EXTINF:-1,OFF FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25429.m3u8
+#EXTINF:-1,OFF FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29406.m3u8
+#EXTINF:-1,OFF HD.m3u8
+http://csrv.tv:80/live/mila/mila/1766.m3u8
+#EXTINF:-1,OFF HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2344.m3u8
+#EXTINF:-1,OFF SD.m3u8
+http://csrv.tv:80/live/mila/mila/1767.m3u8
+#EXTINF:-1,OFF SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2169.m3u8
+#EXTINF:-1,Os Anjinhos Rugrats [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2075.m3u8
+#EXTINF:-1,Os Cavaleiros do Zodiaco [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2074.m3u8
+#EXTINF:-1,Os Flintstones [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2073.m3u8
+#EXTINF:-1,Os Simpsons [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2072.m3u8
+#EXTINF:-1,Os Ursinhos Carinhosos [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2059.m3u8
+#EXTINF:-1,Os Vingadores [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2037.m3u8
+#EXTINF:-1,Papa Leguas [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2053.m3u8
+#EXTINF:-1,Paramount Channel FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1972.m3u8
+#EXTINF:-1,Paramount Channel FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25428.m3u8
+#EXTINF:-1,Paramount Channel FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29448.m3u8
+#EXTINF:-1,Paramount Channel HD.m3u8
+http://csrv.tv:80/live/mila/mila/1764.m3u8
+#EXTINF:-1,Paramount Channel HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2343.m3u8
+#EXTINF:-1,Paramount Channel SD.m3u8
+http://csrv.tv:80/live/mila/mila/1765.m3u8
+#EXTINF:-1,Paramount Channel SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2168.m3u8
+#EXTINF:-1,Paris [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2429.m3u8
+#EXTINF:-1,Peppa Pig [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2033.m3u8
+#EXTINF:-1,Pernalonga [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2071.m3u8
+#EXTINF:-1,Phineas e Ferb [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2070.m3u8
+#EXTINF:-1,Pica Pau [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2069.m3u8
+#EXTINF:-1,Pink e Cerebro [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2046.m3u8
+#EXTINF:-1,Play TV SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2167.m3u8
+#EXTINF:-1,PlayKids FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1914.m3u8
+#EXTINF:-1,PlayKids HD.m3u8
+http://csrv.tv:80/live/mila/mila/1668.m3u8
+#EXTINF:-1,PlayKids SD.m3u8
+http://csrv.tv:80/live/mila/mila/1667.m3u8
+#EXTINF:-1,Pokemon [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2051.m3u8
+#EXTINF:-1,Polishop TV HD.m3u8
+http://csrv.tv:80/live/mila/mila/1652.m3u8
+#EXTINF:-1,Popeye O Marinheiro [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2041.m3u8
+#EXTINF:-1,Power Couple Brasil FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1908.m3u8
+#EXTINF:-1,Power Couple Brasil HD.m3u8
+http://csrv.tv:80/live/mila/mila/1643.m3u8
+#EXTINF:-1,Power Couple Brasil HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2308.m3u8
+#EXTINF:-1,Prague [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2419.m3u8
+#EXTINF:-1,Premiere 2 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1939.m3u8
+#EXTINF:-1,Premiere 2 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25427.m3u8
+#EXTINF:-1,Premiere 2 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29447.m3u8
+#EXTINF:-1,Premiere 2 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1762.m3u8
+#EXTINF:-1,Premiere 2 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2342.m3u8
+#EXTINF:-1,Premiere 2 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1763.m3u8
+#EXTINF:-1,Premiere 2 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2165.m3u8
+#EXTINF:-1,Premiere 3 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1938.m3u8
+#EXTINF:-1,Premiere 3 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25426.m3u8
+#EXTINF:-1,Premiere 3 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29446.m3u8
+#EXTINF:-1,Premiere 3 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1760.m3u8
+#EXTINF:-1,Premiere 3 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2341.m3u8
+#EXTINF:-1,Premiere 3 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1761.m3u8
+#EXTINF:-1,Premiere 3 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2164.m3u8
+#EXTINF:-1,Premiere 4 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1937.m3u8
+#EXTINF:-1,Premiere 4 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25373.m3u8
+#EXTINF:-1,Premiere 4 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29445.m3u8
+#EXTINF:-1,Premiere 4 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1758.m3u8
+#EXTINF:-1,Premiere 4 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2340.m3u8
+#EXTINF:-1,Premiere 4 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1759.m3u8
+#EXTINF:-1,Premiere 4 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2163.m3u8
+#EXTINF:-1,Premiere 5 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1936.m3u8
+#EXTINF:-1,Premiere 5 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25425.m3u8
+#EXTINF:-1,Premiere 5 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29444.m3u8
+#EXTINF:-1,Premiere 5 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1756.m3u8
+#EXTINF:-1,Premiere 5 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2339.m3u8
+#EXTINF:-1,Premiere 5 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1757.m3u8
+#EXTINF:-1,Premiere 5 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2162.m3u8
+#EXTINF:-1,Premiere 6 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1935.m3u8
+#EXTINF:-1,Premiere 6 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29443.m3u8
+#EXTINF:-1,Premiere 6 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1754.m3u8
+#EXTINF:-1,Premiere 6 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2338.m3u8
+#EXTINF:-1,Premiere 6 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1755.m3u8
+#EXTINF:-1,Premiere 6 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2161.m3u8
+#EXTINF:-1,Premiere 7 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1934.m3u8
+#EXTINF:-1,Premiere 7 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25372.m3u8
+#EXTINF:-1,Premiere 7 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29442.m3u8
+#EXTINF:-1,Premiere 7 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1752.m3u8
+#EXTINF:-1,Premiere 7 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2337.m3u8
+#EXTINF:-1,Premiere 7 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1753.m3u8
+#EXTINF:-1,Premiere 7 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2160.m3u8
+#EXTINF:-1,Premiere 8 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2159.m3u8
+#EXTINF:-1,Premiere Clubes 4K.m3u8
+http://csrv.tv:80/live/mila/mila/1492.m3u8
+#EXTINF:-1,Premiere Clubes 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28667.m3u8
+#EXTINF:-1,Premiere Clubes FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1933.m3u8
+#EXTINF:-1,Premiere Clubes FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25424.m3u8
+#EXTINF:-1,Premiere Clubes FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29441.m3u8
+#EXTINF:-1,Premiere Clubes HD.m3u8
+http://csrv.tv:80/live/mila/mila/1750.m3u8
+#EXTINF:-1,Premiere Clubes HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2336.m3u8
+#EXTINF:-1,Premiere Clubes SD.m3u8
+http://csrv.tv:80/live/mila/mila/1751.m3u8
+#EXTINF:-1,Premiere Clubes SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2158.m3u8
+#EXTINF:-1,Prime Box Brasil FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1971.m3u8
+#EXTINF:-1,Prime Box Brasil HD.m3u8
+http://csrv.tv:80/live/mila/mila/1748.m3u8
+#EXTINF:-1,Prime Box Brasil SD.m3u8
+http://csrv.tv:80/live/mila/mila/1749.m3u8
+#EXTINF:-1,Prime Box Brazil FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25422.m3u8
+#EXTINF:-1,Rambo [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2068.m3u8
+#EXTINF:-1,RCI SD.m3u8
+http://csrv.tv:80/live/mila/mila/1651.m3u8
+#EXTINF:-1,Record News FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1970.m3u8
+#EXTINF:-1,Record News FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25354.m3u8
+#EXTINF:-1,Record News HD.m3u8
+http://csrv.tv:80/live/mila/mila/1745.m3u8
+#EXTINF:-1,Record News SD.m3u8
+http://csrv.tv:80/live/mila/mila/1746.m3u8
+#EXTINF:-1,RecordTV BA FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1913.m3u8
+#EXTINF:-1,RecordTV BA HD.m3u8
+http://csrv.tv:80/live/mila/mila/1665.m3u8
+#EXTINF:-1,RecordTV BA SD.m3u8
+http://csrv.tv:80/live/mila/mila/1664.m3u8
+#EXTINF:-1,RecordTV DF FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1912.m3u8
+#EXTINF:-1,RecordTV DF HD.m3u8
+http://csrv.tv:80/live/mila/mila/1663.m3u8
+#EXTINF:-1,RecordTV DF SD.m3u8
+http://csrv.tv:80/live/mila/mila/1662.m3u8
+#EXTINF:-1,RecordTV FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25371.m3u8
+#EXTINF:-1,RecordTV Goiania FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29485.m3u8
+#EXTINF:-1,RecordTV MG FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1916.m3u8
+#EXTINF:-1,RecordTV MG HD.m3u8
+http://csrv.tv:80/live/mila/mila/1670.m3u8
+#EXTINF:-1,RecordTV MG SD.m3u8
+http://csrv.tv:80/live/mila/mila/1669.m3u8
+#EXTINF:-1,RecordTV RJ FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1915.m3u8
+#EXTINF:-1,RecordTV RJ HD.m3u8
+http://csrv.tv:80/live/mila/mila/1672.m3u8
+#EXTINF:-1,RecordTV RJ SD.m3u8
+http://csrv.tv:80/live/mila/mila/1671.m3u8
+#EXTINF:-1,RecordTV RS FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1911.m3u8
+#EXTINF:-1,RecordTV RS HD.m3u8
+http://csrv.tv:80/live/mila/mila/1661.m3u8
+#EXTINF:-1,RecordTV RS SD.m3u8
+http://csrv.tv:80/live/mila/mila/1660.m3u8
+#EXTINF:-1,RecordTV SP 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28666.m3u8
+#EXTINF:-1,RecordTV SP FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1932.m3u8
+#EXTINF:-1,RecordTV SP HD.m3u8
+http://csrv.tv:80/live/mila/mila/1743.m3u8
+#EXTINF:-1,RecordTV SP SD.m3u8
+http://csrv.tv:80/live/mila/mila/1747.m3u8
+#EXTINF:-1,Rede Brasil SD.m3u8
+http://csrv.tv:80/live/mila/mila/1742.m3u8
+#EXTINF:-1,Rede TV 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28664.m3u8
+#EXTINF:-1,Rede TV FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1918.m3u8
+#EXTINF:-1,Rede TV FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25353.m3u8
+#EXTINF:-1,Rede TV FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29405.m3u8
+#EXTINF:-1,Rede TV HD.m3u8
+http://csrv.tv:80/live/mila/mila/1740.m3u8
+#EXTINF:-1,Rede TV HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2335.m3u8
+#EXTINF:-1,Rede TV SD.m3u8
+http://csrv.tv:80/live/mila/mila/1741.m3u8
+#EXTINF:-1,Rede TV SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2116.m3u8
+#EXTINF:-1,Rede Vida FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1917.m3u8
+#EXTINF:-1,Rede Vida FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25421.m3u8
+#EXTINF:-1,Rede Vida HD.m3u8
+http://csrv.tv:80/live/mila/mila/1673.m3u8
+#EXTINF:-1,Rede Vida SD.m3u8
+http://csrv.tv:80/live/mila/mila/1739.m3u8
+#EXTINF:-1,Rede Vida SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2110.m3u8
+#EXTINF:-1,Rio de Janeiro [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2420.m3u8
+#EXTINF:-1,Rit TV SD.m3u8
+http://csrv.tv:80/live/mila/mila/1654.m3u8
+#EXTINF:-1,Saipan [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2424.m3u8
+#EXTINF:-1,SBT 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28658.m3u8
+#EXTINF:-1,SBT FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1931.m3u8
+#EXTINF:-1,SBT FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25370.m3u8
+#EXTINF:-1,SBT HD.m3u8
+http://csrv.tv:80/live/mila/mila/1737.m3u8
+#EXTINF:-1,SBT HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2334.m3u8
+#EXTINF:-1,SBT SD.m3u8
+http://csrv.tv:80/live/mila/mila/1738.m3u8
+#EXTINF:-1,SBT SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2157.m3u8
+#EXTINF:-1,SBT Serra Dourada FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29486.m3u8
+#EXTINF:-1,SBT SP Interior SD.m3u8
+http://csrv.tv:80/live/mila/mila/1736.m3u8
+#EXTINF:-1,Scooby Doo [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2067.m3u8
+#EXTINF:-1,Smallville [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2030.m3u8
+#EXTINF:-1,Smithsonian Channel FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1909.m3u8
+#EXTINF:-1,Smithsonian Channel FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25352.m3u8
+#EXTINF:-1,Smithsonian Channel HD.m3u8
+http://csrv.tv:80/live/mila/mila/1657.m3u8
+#EXTINF:-1,Smithsonian Channel SD.m3u8
+http://csrv.tv:80/live/mila/mila/1656.m3u8
+#EXTINF:-1,Sobrenatural [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2043.m3u8
+#EXTINF:-1,South Park [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2066.m3u8
+#EXTINF:-1,Space FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1969.m3u8
+#EXTINF:-1,Space FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25420.m3u8
+#EXTINF:-1,Space FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29440.m3u8
+#EXTINF:-1,Space HD.m3u8
+http://csrv.tv:80/live/mila/mila/1732.m3u8
+#EXTINF:-1,Space HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2333.m3u8
+#EXTINF:-1,Space HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1501.m3u8
+#EXTINF:-1,Space SD.m3u8
+http://csrv.tv:80/live/mila/mila/1733.m3u8
+#EXTINF:-1,Space SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2156.m3u8
+#EXTINF:-1,Space SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1500.m3u8
+#EXTINF:-1,SporTV 2 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1930.m3u8
+#EXTINF:-1,SporTV 2 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25419.m3u8
+#EXTINF:-1,SporTV 2 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29439.m3u8
+#EXTINF:-1,SporTV 2 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1729.m3u8
+#EXTINF:-1,SporTV 2 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2332.m3u8
+#EXTINF:-1,SporTV 2 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1730.m3u8
+#EXTINF:-1,SporTV 2 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2155.m3u8
+#EXTINF:-1,SporTV 3 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1929.m3u8
+#EXTINF:-1,SporTV 3 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25418.m3u8
+#EXTINF:-1,SporTV 3 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29438.m3u8
+#EXTINF:-1,SporTV 3 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1727.m3u8
+#EXTINF:-1,SporTV 3 HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2331.m3u8
+#EXTINF:-1,SporTV 3 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1728.m3u8
+#EXTINF:-1,SporTV 3 SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2131.m3u8
+#EXTINF:-1,SporTV 4K.m3u8
+http://csrv.tv:80/live/mila/mila/1493.m3u8
+#EXTINF:-1,SporTV 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28657.m3u8
+#EXTINF:-1,SporTV FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1928.m3u8
+#EXTINF:-1,SporTV FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25417.m3u8
+#EXTINF:-1,SporTV FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29437.m3u8
+#EXTINF:-1,SporTV HD.m3u8
+http://csrv.tv:80/live/mila/mila/1726.m3u8
+#EXTINF:-1,SporTV HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2330.m3u8
+#EXTINF:-1,SporTV SD.m3u8
+http://csrv.tv:80/live/mila/mila/1731.m3u8
+#EXTINF:-1,SporTV SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2154.m3u8
+#EXTINF:-1,Steven Universe [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2065.m3u8
+#EXTINF:-1,Studio Universal FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1968.m3u8
+#EXTINF:-1,Studio Universal FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25416.m3u8
+#EXTINF:-1,Studio Universal FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29436.m3u8
+#EXTINF:-1,Studio Universal HD.m3u8
+http://csrv.tv:80/live/mila/mila/1724.m3u8
+#EXTINF:-1,Studio Universal HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2329.m3u8
+#EXTINF:-1,Studio Universal SD.m3u8
+http://csrv.tv:80/live/mila/mila/1725.m3u8
+#EXTINF:-1,Studio Universal SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2153.m3u8
+#EXTINF:-1,Superman [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2035.m3u8
+#EXTINF:-1,SyFy FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1967.m3u8
+#EXTINF:-1,SyFy FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25415.m3u8
+#EXTINF:-1,SyFy FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29404.m3u8
+#EXTINF:-1,SyFy HD.m3u8
+http://csrv.tv:80/live/mila/mila/1734.m3u8
+#EXTINF:-1,SyFy HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2328.m3u8
+#EXTINF:-1,SyFy SD.m3u8
+http://csrv.tv:80/live/mila/mila/1735.m3u8
+#EXTINF:-1,SyFy SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2152.m3u8
+#EXTINF:-1,TBS FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1966.m3u8
+#EXTINF:-1,TBS FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25414.m3u8
+#EXTINF:-1,TBS FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29435.m3u8
+#EXTINF:-1,TBS HD.m3u8
+http://csrv.tv:80/live/mila/mila/1722.m3u8
+#EXTINF:-1,TBS HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2327.m3u8
+#EXTINF:-1,TBS SD.m3u8
+http://csrv.tv:80/live/mila/mila/1723.m3u8
+#EXTINF:-1,TBS SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2151.m3u8
+#EXTINF:-1,TCM SD.m3u8
+http://csrv.tv:80/live/mila/mila/1721.m3u8
+#EXTINF:-1,TCM SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2150.m3u8
+#EXTINF:-1,Telecine Action FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1927.m3u8
+#EXTINF:-1,Telecine Action FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25413.m3u8
+#EXTINF:-1,Telecine Action FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29434.m3u8
+#EXTINF:-1,Telecine Action HD.m3u8
+http://csrv.tv:80/live/mila/mila/1719.m3u8
+#EXTINF:-1,Telecine Action HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2326.m3u8
+#EXTINF:-1,Telecine Action HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1519.m3u8
+#EXTINF:-1,Telecine Action SD.m3u8
+http://csrv.tv:80/live/mila/mila/1720.m3u8
+#EXTINF:-1,Telecine Action SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2149.m3u8
+#EXTINF:-1,Telecine Action SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1518.m3u8
+#EXTINF:-1,Telecine Cult FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1965.m3u8
+#EXTINF:-1,Telecine Cult FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25412.m3u8
+#EXTINF:-1,Telecine Cult FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29433.m3u8
+#EXTINF:-1,Telecine Cult HD.m3u8
+http://csrv.tv:80/live/mila/mila/1717.m3u8
+#EXTINF:-1,Telecine Cult HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2325.m3u8
+#EXTINF:-1,Telecine Cult SD.m3u8
+http://csrv.tv:80/live/mila/mila/1718.m3u8
+#EXTINF:-1,Telecine Cult SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2148.m3u8
+#EXTINF:-1,Telecine Fun FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1926.m3u8
+#EXTINF:-1,Telecine Fun FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25411.m3u8
+#EXTINF:-1,Telecine Fun FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29432.m3u8
+#EXTINF:-1,Telecine Fun HD.m3u8
+http://csrv.tv:80/live/mila/mila/1715.m3u8
+#EXTINF:-1,Telecine Fun HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2324.m3u8
+#EXTINF:-1,Telecine Fun HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1517.m3u8
+#EXTINF:-1,Telecine Fun SD.m3u8
+http://csrv.tv:80/live/mila/mila/1716.m3u8
+#EXTINF:-1,Telecine Fun SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2147.m3u8
+#EXTINF:-1,Telecine Fun SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1516.m3u8
+#EXTINF:-1,Telecine Pipoca FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1925.m3u8
+#EXTINF:-1,Telecine Pipoca FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25410.m3u8
+#EXTINF:-1,Telecine Pipoca FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29431.m3u8
+#EXTINF:-1,Telecine Pipoca HD.m3u8
+http://csrv.tv:80/live/mila/mila/1713.m3u8
+#EXTINF:-1,Telecine Pipoca HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2323.m3u8
+#EXTINF:-1,Telecine Pipoca HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1515.m3u8
+#EXTINF:-1,Telecine Pipoca SD.m3u8
+http://csrv.tv:80/live/mila/mila/1714.m3u8
+#EXTINF:-1,Telecine Pipoca SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2146.m3u8
+#EXTINF:-1,Telecine Pipoca SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1514.m3u8
+#EXTINF:-1,Telecine Premium FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1924.m3u8
+#EXTINF:-1,Telecine Premium FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25409.m3u8
+#EXTINF:-1,Telecine Premium FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29430.m3u8
+#EXTINF:-1,Telecine Premium HD.m3u8
+http://csrv.tv:80/live/mila/mila/1711.m3u8
+#EXTINF:-1,Telecine Premium HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2322.m3u8
+#EXTINF:-1,Telecine Premium HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1513.m3u8
+#EXTINF:-1,Telecine Premium SD.m3u8
+http://csrv.tv:80/live/mila/mila/1712.m3u8
+#EXTINF:-1,Telecine Premium SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2145.m3u8
+#EXTINF:-1,Telecine Premium SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1512.m3u8
+#EXTINF:-1,Telecine Touch FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1923.m3u8
+#EXTINF:-1,Telecine Touch FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25408.m3u8
+#EXTINF:-1,Telecine Touch FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29429.m3u8
+#EXTINF:-1,Telecine Touch HD.m3u8
+http://csrv.tv:80/live/mila/mila/1709.m3u8
+#EXTINF:-1,Telecine Touch HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2321.m3u8
+#EXTINF:-1,Telecine Touch HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1511.m3u8
+#EXTINF:-1,Telecine Touch SD.m3u8
+http://csrv.tv:80/live/mila/mila/1710.m3u8
+#EXTINF:-1,Telecine Touch SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2144.m3u8
+#EXTINF:-1,Telecine Touch SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1510.m3u8
+#EXTINF:-1,Terra Viva SD.m3u8
+http://csrv.tv:80/live/mila/mila/1708.m3u8
+#EXTINF:-1,Terra Viva SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2103.m3u8
+#EXTINF:-1,Tesouros da Disney [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2064.m3u8
+#EXTINF:-1,Thundercats [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2055.m3u8
+#EXTINF:-1,Timao e Pumba [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2063.m3u8
+#EXTINF:-1,TLC FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1964.m3u8
+#EXTINF:-1,TLC FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25351.m3u8
+#EXTINF:-1,TLC FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29398.m3u8
+#EXTINF:-1,TLC HD.m3u8
+http://csrv.tv:80/live/mila/mila/1706.m3u8
+#EXTINF:-1,TLC HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2319.m3u8
+#EXTINF:-1,TLC SD.m3u8
+http://csrv.tv:80/live/mila/mila/1707.m3u8
+#EXTINF:-1,TLC SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2142.m3u8
+#EXTINF:-1,TNT 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28665.m3u8
+#EXTINF:-1,TNT FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1963.m3u8
+#EXTINF:-1,TNT FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25407.m3u8
+#EXTINF:-1,TNT FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29428.m3u8
+#EXTINF:-1,TNT HD.m3u8
+http://csrv.tv:80/live/mila/mila/1704.m3u8
+#EXTINF:-1,TNT HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2318.m3u8
+#EXTINF:-1,TNT HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1509.m3u8
+#EXTINF:-1,TNT SD.m3u8
+http://csrv.tv:80/live/mila/mila/1705.m3u8
+#EXTINF:-1,TNT SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2141.m3u8
+#EXTINF:-1,TNT SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1508.m3u8
+#EXTINF:-1,TNT Series 4K [H265].m3u8
+http://csrv.tv:80/live/mila/mila/28655.m3u8
+#EXTINF:-1,TNT Series FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1962.m3u8
+#EXTINF:-1,TNT Series FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25406.m3u8
+#EXTINF:-1,TNT Series FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29427.m3u8
+#EXTINF:-1,TNT Series HD.m3u8
+http://csrv.tv:80/live/mila/mila/1702.m3u8
+#EXTINF:-1,TNT Series HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2317.m3u8
+#EXTINF:-1,TNT Series HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1499.m3u8
+#EXTINF:-1,TNT Series SD.m3u8
+http://csrv.tv:80/live/mila/mila/1703.m3u8
+#EXTINF:-1,TNT Series SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2140.m3u8
+#EXTINF:-1,TNT Series SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1498.m3u8
+#EXTINF:-1,Todo Mundo Odeia o Cris [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2062.m3u8
+#EXTINF:-1,Tom e Jerry [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2061.m3u8
+#EXTINF:-1,Tooncast HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2316.m3u8
+#EXTINF:-1,Tooncast SD.m3u8
+http://csrv.tv:80/live/mila/mila/1701.m3u8
+#EXTINF:-1,Tooncast SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2139.m3u8
+#EXTINF:-1,Toronto [Camera].m3u8
+http://csrv.tv:80/live/mila/mila/2427.m3u8
+#EXTINF:-1,Travel Box Brazil FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25367.m3u8
+#EXTINF:-1,Tres Espias Demais [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2034.m3u8
+#EXTINF:-1,TruTV FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1961.m3u8
+#EXTINF:-1,TruTV FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25350.m3u8
+#EXTINF:-1,TruTV HD.m3u8
+http://csrv.tv:80/live/mila/mila/1690.m3u8
+#EXTINF:-1,TruTV SD.m3u8
+http://csrv.tv:80/live/mila/mila/1691.m3u8
+#EXTINF:-1,TV Aparecida FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25349.m3u8
+#EXTINF:-1,TV Aparecida SD.m3u8
+http://csrv.tv:80/live/mila/mila/1698.m3u8
+#EXTINF:-1,TV Aparecida SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2108.m3u8
+#EXTINF:-1,TV Brasil SD.m3u8
+http://csrv.tv:80/live/mila/mila/1697.m3u8
+#EXTINF:-1,TV Camara SD.m3u8
+http://csrv.tv:80/live/mila/mila/1696.m3u8
+#EXTINF:-1,TV Cultura FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1919.m3u8
+#EXTINF:-1,TV Cultura FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25348.m3u8
+#EXTINF:-1,TV Cultura HD.m3u8
+http://csrv.tv:80/live/mila/mila/1674.m3u8
+#EXTINF:-1,TV Cultura SD.m3u8
+http://csrv.tv:80/live/mila/mila/1675.m3u8
+#EXTINF:-1,TV Escola SD.m3u8
+http://csrv.tv:80/live/mila/mila/1695.m3u8
+#EXTINF:-1,TV Gazeta FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25347.m3u8
+#EXTINF:-1,TV Gazeta SP HD.m3u8
+http://csrv.tv:80/live/mila/mila/1694.m3u8
+#EXTINF:-1,TV Gazeta SP HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2411.m3u8
+#EXTINF:-1,TV Justica SD.m3u8
+http://csrv.tv:80/live/mila/mila/1699.m3u8
+#EXTINF:-1,TV Justica SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2138.m3u8
+#EXTINF:-1,TV Novo Tempo FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25366.m3u8
+#EXTINF:-1,TV Ra Tim Bum FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1960.m3u8
+#EXTINF:-1,TV Ra Tim Bum FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25405.m3u8
+#EXTINF:-1,TV Ra Tim Bum HD.m3u8
+http://csrv.tv:80/live/mila/mila/1692.m3u8
+#EXTINF:-1,TV Ra Tim Bum HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2310.m3u8
+#EXTINF:-1,TV Ra Tim Bum SD.m3u8
+http://csrv.tv:80/live/mila/mila/1693.m3u8
+#EXTINF:-1,TV Ra Tim Bum SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2129.m3u8
+#EXTINF:-1,TV Senado SD.m3u8
+http://csrv.tv:80/live/mila/mila/1700.m3u8
+#EXTINF:-1,TV Senado SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2128.m3u8
+#EXTINF:-1,Um Maluco No Pedaco [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2060.m3u8
+#EXTINF:-1,Uma Familia da Pesada [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2042.m3u8
+#EXTINF:-1,Universal Channel FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1959.m3u8
+#EXTINF:-1,Universal Channel FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25404.m3u8
+#EXTINF:-1,Universal Channel FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29426.m3u8
+#EXTINF:-1,Universal Channel HD.m3u8
+http://csrv.tv:80/live/mila/mila/1688.m3u8
+#EXTINF:-1,Universal Channel HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2315.m3u8
+#EXTINF:-1,Universal Channel SD.m3u8
+http://csrv.tv:80/live/mila/mila/1689.m3u8
+#EXTINF:-1,Universal Channel SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2137.m3u8
+#EXTINF:-1,VH1 FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1958.m3u8
+#EXTINF:-1,VH1 FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25403.m3u8
+#EXTINF:-1,VH1 FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29425.m3u8
+#EXTINF:-1,VH1 HD.m3u8
+http://csrv.tv:80/live/mila/mila/1686.m3u8
+#EXTINF:-1,VH1 MegaHits SD.m3u8
+http://csrv.tv:80/live/mila/mila/1685.m3u8
+#EXTINF:-1,VH1 MegaHits SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2136.m3u8
+#EXTINF:-1,VH1 SD.m3u8
+http://csrv.tv:80/live/mila/mila/1687.m3u8
+#EXTINF:-1,Viva FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1922.m3u8
+#EXTINF:-1,Viva FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25402.m3u8
+#EXTINF:-1,Viva HD.m3u8
+http://csrv.tv:80/live/mila/mila/1683.m3u8
+#EXTINF:-1,Viva HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2314.m3u8
+#EXTINF:-1,Viva SD.m3u8
+http://csrv.tv:80/live/mila/mila/1684.m3u8
+#EXTINF:-1,Viva SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2135.m3u8
+#EXTINF:-1,Warner Channel FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1957.m3u8
+#EXTINF:-1,Warner Channel FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25401.m3u8
+#EXTINF:-1,Warner Channel FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29424.m3u8
+#EXTINF:-1,Warner Channel HD.m3u8
+http://csrv.tv:80/live/mila/mila/1681.m3u8
+#EXTINF:-1,Warner Channel HD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2313.m3u8
+#EXTINF:-1,Warner Channel HD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1497.m3u8
+#EXTINF:-1,Warner Channel SD.m3u8
+http://csrv.tv:80/live/mila/mila/1682.m3u8
+#EXTINF:-1,Warner Channel SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2134.m3u8
+#EXTINF:-1,Warner Channel SD [Legendado].m3u8
+http://csrv.tv:80/live/mila/mila/1496.m3u8
+#EXTINF:-1,WooHoo FHD.m3u8
+http://csrv.tv:80/live/mila/mila/1956.m3u8
+#EXTINF:-1,WooHoo FHD [H265].m3u8
+http://csrv.tv:80/live/mila/mila/25364.m3u8
+#EXTINF:-1,WooHoo FHD [H265] [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/29397.m3u8
+#EXTINF:-1,WooHoo HD.m3u8
+http://csrv.tv:80/live/mila/mila/1679.m3u8
+#EXTINF:-1,WooHoo SD.m3u8
+http://csrv.tv:80/live/mila/mila/1680.m3u8
+#EXTINF:-1,WooHoo SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2133.m3u8
+#EXTINF:-1,X-Men [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2058.m3u8
+#EXTINF:-1,Xena [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2028.m3u8
+#EXTINF:-1,Yu Yu Hakusho [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2050.m3u8
+#EXTINF:-1,Yu-Gi-Oh [24H].m3u8
+http://csrv.tv:80/live/mila/mila/2057.m3u8
+#EXTINF:-1,ZooMoo SD.m3u8
+http://csrv.tv:80/live/mila/mila/1653.m3u8
+#EXTINF:-1,ZooMoo SD [Alter].m3u8
+http://csrv.tv:80/live/mila/mila/2111.m3u8
